@@ -10,4 +10,5 @@ public class SlimCalApplication {
 		SpringApplication.run(SlimCalApplication.class, args);
 	}
 
+
 }
