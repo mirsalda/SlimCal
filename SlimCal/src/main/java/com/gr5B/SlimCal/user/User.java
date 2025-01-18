@@ -1,4 +1,4 @@
-package com.upt.SlimCal.user;
+package com.gr5B.SlimCal.user;
 
 
 import jakarta.persistence.*;

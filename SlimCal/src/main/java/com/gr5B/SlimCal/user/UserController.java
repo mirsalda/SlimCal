@@ -1,7 +1,7 @@
-package com.upt.SlimCal.user;
+package com.gr5B.SlimCal.user;
 
-import com.upt.SlimCal.user.User;
-import com.upt.SlimCal.user.UserService;
+import com.gr5B.SlimCal.user.User;
+import com.gr5B.SlimCal.user.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

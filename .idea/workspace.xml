@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a54c9e2-be56-410b-99bf-5853bd11b363" name="Changes" comment="Ndryshimi i direktorise">
-      <change afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/static/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SlimCal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SlimCal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/SlimCalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/SlimCalApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/user/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/user/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/user/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/user/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/user/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +33,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SlimCalApplication.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/USER/SlimCal",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -49,6 +60,15 @@
       <recent name="C:\Users\USER\SlimCal\SlimCal\src\main\resources\static\js" />
       <recent name="C:\Users\USER\SlimCal\SlimCal\src\main\java\com\gr5B\SlimCal\user" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SlimCalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SlimCal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gr5B.SlimCal.SlimCalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -67,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1736895455206</updated>
       <workItem from="1737130762596" duration="305000" />
+      <workItem from="1737220704305" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="Ndryshimi i direktorise">
       <option name="closed" value="true" />
