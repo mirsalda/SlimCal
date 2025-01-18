@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a54c9e2-be56-410b-99bf-5853bd11b363" name="Changes" comment="Ndryshimi i direktorise">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3a54c9e2-be56-410b-99bf-5853bd11b363" name="Changes" comment="Ndryshimi i direktorise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\SlimCal\SlimCal\src\main\resources\static\images" />
       <recent name="C:\Users\USER\SlimCal\SlimCal\src\main\resources\templates" />
       <recent name="C:\Users\USER\SlimCal\SlimCal\src\main\resources\static\css" />
       <recent name="C:\Users\USER\SlimCal\SlimCal\src\main\java\com\gr5B\SlimCal\user" />
@@ -88,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1736895455206</updated>
       <workItem from="1737130762596" duration="305000" />
-      <workItem from="1737220704305" duration="1912000" />
+      <workItem from="1737220704305" duration="2217000" />
     </task>
     <task id="LOCAL-00001" summary="Ndryshimi i direktorise">
       <option name="closed" value="true" />
