@@ -42,6 +42,7 @@ public class SecurityConfig {
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers("/", "/login", "/register", "/error").permitAll()
                         .requestMatchers("/css/*", "/js/", "/images/*").permitAll()
+                        .requestMatchers("/insert").authenticated()  // Restrict /insert to authenticated users
                         .anyRequest().authenticated()
                 )
                 .formLogin(form -> form
