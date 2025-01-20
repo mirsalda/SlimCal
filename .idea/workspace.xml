@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a54c9e2-be56-410b-99bf-5853bd11b363" name="Changes" comment="Ndryshimi i direktorise">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/static/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/static/css/dashboard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/static/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/static/css/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;Database detector&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
     &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
     &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
     &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
@@ -104,7 +108,10 @@
       <workItem from="1737302132683" duration="555000" />
       <workItem from="1737303067320" duration="1341000" />
       <workItem from="1737330302374" duration="850000" />
-      <workItem from="1737336267540" duration="342000" />
+      <workItem from="1737336267540" duration="655000" />
+      <workItem from="1737336942851" duration="917000" />
+      <workItem from="1737391942035" duration="1970000" />
+      <workItem from="1737410920580" duration="2893000" />
     </task>
     <task id="LOCAL-00001" summary="Ndryshimi i direktorise">
       <option name="closed" value="true" />

@@ -43,6 +43,7 @@ public class SecurityConfig {
                         .requestMatchers("/", "/login", "/register", "/error").permitAll()
                         .requestMatchers("/css/*", "/js/", "/images/*").permitAll()
                         .requestMatchers("/insert").authenticated()  // Restrict /insert to authenticated users
+                        .requestMatchers("/admin/**").hasRole("ADMIN")  // Restrict /admin to users with the "ADMIN" role
                         .anyRequest().authenticated()
                 )
                 .formLogin(form -> form
