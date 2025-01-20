@@ -114,11 +114,11 @@ a.login-btn {
   .left-half {
     display: none !important;
   }
-  
+
   .right-half {
     width: 100%;
   }
-  
+
   .home-footer {
     width: 100%;
   }
@@ -134,7 +134,7 @@ a.login-btn {
     flex-direction: column;
     gap: 0.75rem;
   }
-  
+
   .login-btn, .register-btn {
     width: 100%;
   }
