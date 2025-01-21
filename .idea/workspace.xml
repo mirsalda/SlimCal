@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a54c9e2-be56-410b-99bf-5853bd11b363" name="Changes" comment="Ndryshimi i direktorise">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +106,8 @@
       <workItem from="1737336267540" duration="655000" />
       <workItem from="1737336942851" duration="917000" />
       <workItem from="1737391942035" duration="1970000" />
-      <workItem from="1737410920580" duration="2893000" />
+      <workItem from="1737410920580" duration="3116000" />
+      <workItem from="1737478435519" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="Ndryshimi i direktorise">
       <option name="closed" value="true" />
