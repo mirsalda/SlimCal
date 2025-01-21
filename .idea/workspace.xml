@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a54c9e2-be56-410b-99bf-5853bd11b363" name="Changes" comment="Ndryshimi i direktorise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/diary.html" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/diary.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     &quot;Spring Boot.SlimCalApplication.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/SlimCal/SlimCal/src/main/java/com/gr5B/SlimCal/food&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/SlimCal/SlimCal/src/main/resources/static/css&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -58,6 +59,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\SlimCal\SlimCal\src\main\resources\static\css" />
       <recent name="C:\Users\USER\SlimCal\SlimCal\src\main\java\com\gr5B\SlimCal\food" />
       <recent name="C:\Users\USER\SlimCal\SlimCal\src\main\java\com\gr5B\SlimCal" />
     </key>
@@ -107,7 +109,8 @@
       <workItem from="1737336942851" duration="917000" />
       <workItem from="1737391942035" duration="1970000" />
       <workItem from="1737410920580" duration="3116000" />
-      <workItem from="1737478435519" duration="379000" />
+      <workItem from="1737478435519" duration="516000" />
+      <workItem from="1737483612137" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="Ndryshimi i direktorise">
       <option name="closed" value="true" />

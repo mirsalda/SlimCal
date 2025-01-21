@@ -164,14 +164,17 @@
                             </thead>
                             <tbody>
                             <tr th:each="entry : ${foodEntries}">
-                                <td th:text="${entry.time}"></td>
-                                <td th:text="${entry.foodName}"></td>
+                                <td th:text="${entry.createdAt}"></td>
+                                <td th:text="${entry.name}"></td>
                                 <td th:text="${#numbers.formatDecimal(entry.price, 1, 2)}"></td>
-                                <td th:text="${entry.calories}"></td>
+                                <td th:text="${entry.cals}"></td>
                                 <td>
-                                    <a href="#" th:href="@{'/delete/' + ${entry.id}}" class="btn btn-danger btn-sm">
-                                        <i class="fas fa-trash-alt"></i>
-                                    </a>
+                                    <form th:action="@{'/delete/' + ${entry.id}}" method="post" style="display: inline;">
+                                        <button type="submit" class="btn btn-danger btn-sm">
+                                            <i class="fas fa-trash-alt"></i>
+                                        </button>
+                                    </form>
+
                                 </td>
                             </tr>
                             </tbody>
