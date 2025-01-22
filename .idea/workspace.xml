@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3a54c9e2-be56-410b-99bf-5853bd11b363" name="Changes" comment="Ndryshimi i direktorise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/diary.html" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/resources/templates/diary.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,9 @@
       <workItem from="1737391942035" duration="1970000" />
       <workItem from="1737410920580" duration="3116000" />
       <workItem from="1737478435519" duration="516000" />
-      <workItem from="1737483612137" duration="1199000" />
+      <workItem from="1737483612137" duration="2743000" />
+      <workItem from="1737486601698" duration="513000" />
+      <workItem from="1737510442881" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="Ndryshimi i direktorise">
       <option name="closed" value="true" />
