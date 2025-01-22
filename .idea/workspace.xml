@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a54c9e2-be56-410b-99bf-5853bd11b363" name="Changes" comment="Ndryshimi i direktorise">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/admin/AdminPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/admin/AdminPageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/admin/AdminPageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/main/java/com/gr5B/SlimCal/admin/AdminPageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/test/java/com/gr5B/SlimCal/admin/AdminPageControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/test/java/com/gr5B/SlimCal/admin/AdminPageControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlimCal/src/test/java/com/gr5B/SlimCal/admin/AdminPageServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/test/java/com/gr5B/SlimCal/admin/AdminPageServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/test/java/com/gr5B/SlimCal/food/FoodControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/test/java/com/gr5B/SlimCal/food/FoodControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlimCal/src/test/java/com/gr5B/SlimCal/food/FoodServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SlimCal/src/test/java/com/gr5B/SlimCal/food/FoodServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +132,7 @@
       <workItem from="1737547408464" duration="931000" />
       <workItem from="1737568536680" duration="3503000" />
       <workItem from="1737579177144" duration="361000" />
-      <workItem from="1737582738538" duration="1380000" />
+      <workItem from="1737582738538" duration="1716000" />
     </task>
     <task id="LOCAL-00001" summary="Ndryshimi i direktorise">
       <option name="closed" value="true" />

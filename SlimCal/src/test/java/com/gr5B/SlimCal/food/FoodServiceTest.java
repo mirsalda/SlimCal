@@ -1,11 +1,11 @@
 package com.gr5B.SlimCal.food;
 
-import com.upt.SlimCal.food.Food;
-import com.upt.SlimCal.food.FoodRepository;
-import com.upt.SlimCal.food.FoodRequest;
-import com.upt.SlimCal.food.FoodService;
-import com.upt.SlimCal.user.User;
-import com.upt.SlimCal.user.UserService;
+import com.gr5B.SlimCal.food.Food;
+import com.gr5B.SlimCal.food.FoodRepository;
+import com.gr5B.SlimCal.food.FoodRequest;
+import com.gr5B.SlimCal.food.FoodService;
+import com.gr5B.SlimCal.user.User;
+import com.gr5B.SlimCal.user.UserService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.*;
