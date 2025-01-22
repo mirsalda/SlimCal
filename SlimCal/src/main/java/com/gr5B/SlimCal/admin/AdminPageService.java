@@ -1,9 +1,9 @@
 package com.gr5B.SlimCal.admin;
 
-import com.upt.SlimCal.food.Food;
-import com.upt.SlimCal.food.FoodRepository;
-import com.upt.SlimCal.user.User;
-import com.upt.SlimCal.user.UserRepository;
+import com.gr5B.SlimCal.food.Food;
+import com.gr5B.SlimCal.food.FoodRepository;
+import com.gr5B.SlimCal.user.User;
+import com.gr5B.SlimCal.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

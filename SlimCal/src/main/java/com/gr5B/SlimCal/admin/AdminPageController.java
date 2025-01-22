@@ -1,7 +1,7 @@
 package com.gr5B.SlimCal.admin;
 
-import com.upt.SlimCal.food.Food;
-import com.upt.SlimCal.user.User;
+import com.gr5B.SlimCal.food.Food;
+import com.gr5B.SlimCal.user.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

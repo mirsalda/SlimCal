@@ -1,8 +1,8 @@
 package com.gr5B.SlimCal.admin;
 
-import com.upt.SlimCal.admin.*;
-import com.upt.SlimCal.food.Food;
-import com.upt.SlimCal.user.User;
+import com.gr5B.SlimCal.admin.*;
+import com.gr5B.SlimCal.food.Food;
+import com.gr5B.SlimCal.user.User;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
